@@ -1,5 +1,6 @@
 A Git Together With Jon and Nate
 ===
+Git is great, let's learn about it!
 
 # What is Git?
 - Distributed
@@ -13,23 +14,23 @@ A Git Together With Jon and Nate
 - Backups
 
 # Vocabulary
-- Repository
 - Version Control
-- Commit
+- Repository
 - Branch
+- Commit
 
 # Simple Git Commands
-- git config
-- git init
-- git help
-- git status
-- git add
-- git commit -m "<Commit Message>"
-- git branch <new_branch>
-- git checkout <branch>
-- git merge <branch>
+- `git help`
+- `git config`
+- `git init`
+- `git status`
+- `git add`
+- `git commit -m "<commit_message>"`
+- `git branch <new_branch>`
+- `git checkout <branch>`
+- `git merge <branch>`
 
 # Remote Git Commands
-- git remote [add | remove] <remote_url>
-- git push <remote> <branch>
-- git pull <remote> <branch>
+- `git remote [add | remove] <remote_url>`
+- `git push <remote> <branch>`
+- `git pull <remote> <branch>`
